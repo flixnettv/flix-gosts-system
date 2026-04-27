@@ -1,0 +1,11 @@
+{
+  "name": "Ghost & Goblin Platform",
+  "description": "A multi-agent management system with Ghost (Manager) and Goblin (Worker) agents, featuring OpenClaw for web research and remote machine control via a secure bridge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "notifications",
+    "persistent-storage"
+  ]
+}
